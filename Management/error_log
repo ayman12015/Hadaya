@@ -1,0 +1,21 @@
+[19-Oct-2019 20:23:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appsejraay/public_html/Hadaya/management/application/views/includes/header.php on line 163
+[19-Oct-2019 20:23:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/appsejraay/public_html/Hadaya/management/application/views/includes/header.php on line 163
+[19-Oct-2019 20:25:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/appsejraay/public_html/Hadaya/management/application/views/includes/header.php on line 164
+[22-Oct-2019 16:51:58 UTC] PHP Fatal error:  Call to undefined method User_model::userAllCount() in /home/appsejraay/public_html/Hadaya/management/application/controllers/Admin.php on line 72
+[22-Oct-2019 17:07:50 UTC] PHP Fatal error:  Cannot redeclare User_model::userAllCount() in /home/appsejraay/public_html/Hadaya/management/application/models/User_model.php on line 62
+[22-Oct-2019 20:50:51 UTC] PHP Fatal error:  Cannot redeclare User_model::getUserInfo() in /home/appsejraay/public_html/Hadaya/management/application/models/User_model.php on line 263
+[23-Oct-2019 03:48:56 UTC] PHP Parse error:  syntax error, unexpected 'Are' (T_STRING) in /home/appsejraay/public_html/Hadaya/management/application/views/users.php on line 101
+[23-Oct-2019 03:56:22 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Oct-2019 04:21:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Oct-2019 04:52:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Oct-2019 04:55:25 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[23-Oct-2019 05:57:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/appsejraay/public_html/Hadaya/management/application/controllers/Admin.php on line 428
+[23-Oct-2019 05:58:28 UTC] PHP Fatal error:  Cannot redeclare class BaseController in /home/appsejraay/public_html/Hadaya/management/application/libraries/BaseController.php on line 0
+[23-Oct-2019 07:45:03 UTC] PHP Fatal error:  Cannot redeclare class BaseController in /home/appsejraay/public_html/Hadaya/management/application/libraries/BaseController.php on line 0
+[23-Oct-2019 08:02:01 UTC] PHP Fatal error:  Cannot redeclare class BaseController in /home/appsejraay/public_html/Hadaya/management/application/libraries/BaseController.php on line 0
+[24-Oct-2019 14:26:24 UTC] PHP Fatal error:  Call to undefined method User_model::make_datatables() in /home/appsejraay/public_html/Hadaya/management/application/controllers/Admin.php on line 46
+[24-Oct-2019 14:30:21 UTC] PHP Fatal error:  Call to undefined method User_model::get_all_data() in /home/appsejraay/public_html/Hadaya/management/application/controllers/Admin.php on line 60
+[24-Oct-2019 15:37:06 UTC] PHP Fatal error:  Call to undefined function issetI() in /home/appsejraay/public_html/Hadaya/management/application/controllers/Crud.php on line 32
+[24-Oct-2019 15:38:22 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/appsejraay/public_html/Hadaya/management/application/controllers/Crud.php on line 33
+[24-Oct-2019 16:31:56 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/appsejraay/public_html/Hadaya/management/application/views/users.php on line 72
+[24-Oct-2019 18:53:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/appsejraay/public_html/Hadaya/management/application/views/users.php on line 121
